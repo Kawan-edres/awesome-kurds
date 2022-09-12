@@ -85,6 +85,7 @@ add other awesome Kurds, including you!
 - [Hozan Saeed](https://github.com/hozan7): Node, React, API
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
+- [Kawan Idrees](https://github.com/Kawan-edres):Front-End,JavaScript,React,Next
 - [Lavin Salah](https://github.com/lavin67)
 - [Lawen](https://github.com/lawen-coder)
 - [Lhon Rafaat](https://github.com/LhonRafaat)
