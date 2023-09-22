@@ -86,7 +86,7 @@ add other awesome Kurds, including you!
 - [Hevar Tofiq](https://github.com/rageofkurd): React, Next, Node, Javascript, Flutter
 - [Hozan Saeed](https://github.com/hozan7): Node, React, API
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
-- [Kawa Idrees](https://github.com/Kawan-edres): Front-end, JavaScript, React, Next
+- [Kawan Idrees](https://github.com/Kawan-edres): Front-end, JavaScript, React, Next
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
 - [Lavin Salah](https://github.com/lavin67)
 - [Lawen](https://github.com/lawen-coder)
